@@ -3,6 +3,10 @@
 ## Books
 
 - [ ] Scheduling: Theory, Algorithms, and Systems (2016) by **Michael L. Pinedo**
+- [ ] Flow Shop Scheduling: Theoretical Results, Algorithms, and Applications by **Hamilton Emmons and George Vairaktarakis**
+- [ ] Maschinenbelegungsplanung in der Variantenfertigung: Job-Shop-Scheduling mit Fälligkeitsterminen und Flow-Shop-Scheduling mit begrenzten Zwischenlägern by **Iria Lechleiter**
+- [ ] Computational Intelligence in Flow Shop and Job Shop Scheduling by **Uday K. Chakraborty**
+- [ ] Genetic and Hybrid Algorithm Approaches to Flow Shop Scheduling by **Jose Rodrigues**
 
 ## Youtube
 
