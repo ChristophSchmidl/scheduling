@@ -14,11 +14,11 @@
 - [ ] [The scheduling problem playlist](https://www.youtube.com/playlist?list=PLN4kTzLXGGgU2-WLwxfuRwfnENwSusLCb) by **Luis R. Izquierdo**
 	- [x] The scheduling problem (1/7). Introduction
 	- [x] The scheduling problem (2/7). Types of scheduling problems
-	- [ ] The scheduling problem (3/7). Assumptions and notation
-	- [ ] The scheduling problem (4/7). Performance measures and objectives
-	- [ ] The scheduling problem (5/7). Different approaches to deal with scheduling problems
-	- [ ] The scheduling problem (6/7). Different priority rules applied to a job shop problem
-	- [ ] The scheduling problem (7/7). Computation of makespan in a permutation flow shop
+	- [x] The scheduling problem (3/7). Assumptions and notation
+	- [x] The scheduling problem (4/7). Performance measures and objectives
+	- [x] The scheduling problem (5/7). Different approaches to deal with scheduling problems
+	- [x] The scheduling problem (6/7). Different priority rules applied to a job shop problem
+	- [x] The scheduling problem (7/7). Computation of makespan in a permutation flow shop
 
 **Types of scheduling problems**
 
@@ -27,6 +27,62 @@
 * **Job Shop**: Each job has its own routing. (n!)^m possible solutions.
 * **Open shop**: Unlike the job-shop problem, the order in which the processing steps happen can vary freely.
 * **Dynamic**: Jobs arriving dynamically.
+
+**Solution strategies**
+
+* **Exact methods**
+	* Optimal solution, but only for simple cases (Johnson's rule, Hodgon's Algorithm)
+* **Heuristic methods and priority rules**
+	* Easy to apply but often not very good solutions
+* **Metaheuristic methods (stochastic optimization)**
+	* Iterative local search
+	* Simulated annealing
+	* Genetic algorithms
+	* Tabu Search
+	* ...
+
+**Performance measures and objective**
+
+* **C_max** = makespan
+* **F_max** = minimizing the maximum flow time of jobs
+* **F_med** = minimizing the average flow time of jobs
+
+Due date related objectives:
+
+* **T_max** = minimizing the maximum tardiness
+* **E_max** = minimizing the maximum earliness
+* **L_max** = minimizing the maximum absolute lateness
+* **T_med** = minimizing the average tardiness
+* **E_med** = minimizing the mean earliness
+* **L_med** = minimizing the mean absolute lateness
+* **number of tardy jobs**
+
+Performance measures with priority:
+
+* **F_{wt}** = minimizing the weighted sum of flow times of the jobs. The larger the weight of the job, the more important it is.
+* **T_{wt}** = minimizing the weighted sum of the tardiness
+* **L_{wt}** = minimizing the weighted sum of the absolute lateness
+* **E_{wt}** = minimizing the weighted sum of the earliness
+* **ET_{wt}** = minimizing the weighted sum of the tardiness and earliness times
+
+**Priority rules**	
+
+* **Total Slack**
+	* Slack = due date - actual date - processing time of remaining operations
+* **Critical Ratio**
+	* Critical ratio = (due date - actual date)/(processing time of remaining op.)
+* **Shortest Processing Time (SPT)**
+* **Longest Processing Time (LPT)**
+* **FIFO (First In First Out)**
+* **LIFO (Last In First Out)**
+* **Earliest Due Date (EDD)**
+* **Jobs with longer remaining process time**
+* **Higher value**
+* **Work In Queue (WINQ)**
+* **Random**
+
+
+
 
 ## Websites
 
