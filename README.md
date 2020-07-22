@@ -2,7 +2,9 @@
 
 ## Books
 
-- [ ] Scheduling: Theory, Algorithms, and Systems (2016) by **Michael L. Pinedo**
+- [ ] Scheduling: Theory, Algorithms, and Systems (2016) by **Michael L. Pinedo** (recommended)
+- [ ] Essentials of Metaheuristics (Second Edition) by **Sean Luke** (recommended)
+- [ ] Metaheuristics: From Design to Implementation by **El-Ghazali Talbi** (recommended!)
 - [ ] Flow Shop Scheduling: Theoretical Results, Algorithms, and Applications by **Hamilton Emmons and George Vairaktarakis**
 - [ ] Maschinenbelegungsplanung in der Variantenfertigung: Job-Shop-Scheduling mit Fälligkeitsterminen und Flow-Shop-Scheduling mit begrenzten Zwischenlägern by **Iria Lechleiter**
 - [ ] Computational Intelligence in Flow Shop and Job Shop Scheduling by **Uday K. Chakraborty**
@@ -11,7 +13,7 @@
 
 ## Youtube
 
-- [ ] [The scheduling problem playlist](https://www.youtube.com/playlist?list=PLN4kTzLXGGgU2-WLwxfuRwfnENwSusLCb) by **Luis R. Izquierdo**
+- [x] [The scheduling problem playlist](https://www.youtube.com/playlist?list=PLN4kTzLXGGgU2-WLwxfuRwfnENwSusLCb) by **Luis R. Izquierdo**
 	- [x] The scheduling problem (1/7). Introduction
 	- [x] The scheduling problem (2/7). Types of scheduling problems
 	- [x] The scheduling problem (3/7). Assumptions and notation
@@ -82,6 +84,30 @@ Performance measures with priority:
 * **Random**
 
 
+- [x] [Introduction to Metaheuristics](https://www.youtube.com/playlist?list=PLN4kTzLXGGgWNf4CDyoZZOsjOCftW5ej6) by **Luis R. Izquierdo**
+	- [x] Introduction to Metaheuristics (1/9)
+	- [x] Introduction to Metaheuristics (2/9). Combinatorial Optimization problems
+	- [x] Introduction to Metaheuristics (3/9). Exact methods, approximate methods and metaheuristics
+	- [x] Introduction to Metaheuristics (4/9). Classification criteria for metaheuristics
+	- [x] Introduction to Metaheuristics (5/9). Exploration and Exploitation. When to use metaheuristics
+	- [x] Introduction to Metaheuristics (6/9). Random search
+	- [x] Introduction to Metaheuristics (7/9). Local search
+	- [x] Introduction to Metaheuristics (8/9). Local search applied to the Travelling Salesman Problem
+	- [x] Introduction to Metaheuristics (9/9). Summary of Introduction to Metaheuristics
+
+
+* **Relaxation** = Solve a simpler/easier problem than the original problem in hope that you get some insights on the original problem and to solve it at the end
+* **Metaheuristic** = General purpose heuristic or a high-level problem-independent algorithmic framework , Meta-(beyond, at a higher level), -heuristic(to find, to search, to discover)
+
+**Taxonomies**
+
+Many classification criteria may be used for metaheuristics. The most common are:
+
+* Nature inspired vs non-nature inspired
+* Memory usage vs memoryless methods
+* Deterministic vs stochastic
+* Iterative vs greedy
+* Population-based vs single-solution based search
 
 
 ## Websites
