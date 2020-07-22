@@ -119,4 +119,4 @@ Many classification criteria may be used for metaheuristics. The most common are
 ## Papers
 
 - [x] Waqas, U., Geilen, M., Kandelaars, J., Somers, L., Basten, T., Stuijk, S., ... & Corporaal, H. (2015, March). A re-entrant flowshop heuristic for online scheduling of the paper path in a large scale printer. In 2015 Design, Automation & Test in Europe Conference & Exhibition (DATE) (pp. 573-578). IEEE.
-- [ ] Pinxten, J. V., Waqas, U., Geilen, M., Basten, T., & Somers, L. (2017). Online scheduling of 2-re-entrant flexible manufacturing systems. ACM Transactions on Embedded Computing Systems (TECS), 16(5s), 1-20.	
+- [x] Pinxten, J. V., Waqas, U., Geilen, M., Basten, T., & Somers, L. (2017). Online scheduling of 2-re-entrant flexible manufacturing systems. ACM Transactions on Embedded Computing Systems (TECS), 16(5s), 1-20.	
