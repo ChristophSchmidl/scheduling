@@ -13,7 +13,7 @@
 
 ## Youtube
 
-- [x] [The scheduling problem playlist](https://www.youtube.com/playlist?list=PLN4kTzLXGGgU2-WLwxfuRwfnENwSusLCb) by **Luis R. Izquierdo**
+- [x] [The scheduling problem](https://www.youtube.com/playlist?list=PLN4kTzLXGGgU2-WLwxfuRwfnENwSusLCb) by **Luis R. Izquierdo**
 	- [x] The scheduling problem (1/7). Introduction
 	- [x] The scheduling problem (2/7). Types of scheduling problems
 	- [x] The scheduling problem (3/7). Assumptions and notation
