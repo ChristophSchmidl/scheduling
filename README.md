@@ -12,13 +12,21 @@
 ## Youtube
 
 - [ ] [The scheduling problem playlist](https://www.youtube.com/playlist?list=PLN4kTzLXGGgU2-WLwxfuRwfnENwSusLCb) by **Luis R. Izquierdo**
-	- [ ] The scheduling problem (1/7). Introduction
-	- [ ] The scheduling problem (2/7). Types of scheduling problems
+	- [x] The scheduling problem (1/7). Introduction
+	- [x] The scheduling problem (2/7). Types of scheduling problems
 	- [ ] The scheduling problem (3/7). Assumptions and notation
 	- [ ] The scheduling problem (4/7). Performance measures and objectives
 	- [ ] The scheduling problem (5/7). Different approaches to deal with scheduling problems
 	- [ ] The scheduling problem (6/7). Different priority rules applied to a job shop problem
 	- [ ] The scheduling problem (7/7). Computation of makespan in a permutation flow shop
+
+**Types of scheduling problems**
+
+* **Permutation Flow Shop**: In the permutation flow shop, (i) all jobs have the same processing order through the machines, and (ii) each machine processes the jobs in the same order. E.g., a Conveyor. n! possible solutions.
+* **Flow shop**: In a flow shop problem, there are m machines that should process n jobs. All jobs have the same processing order through the machines. The order of the jobs in each machine can be different. There is not common transport nor any type of hard link. (n1)^m possible solutions.
+* **Job Shop**: Each job has its own routing. (n!)^m possible solutions.
+* **Open shop**: Unlike the job-shop problem, the order in which the processing steps happen can vary freely.
+* **Dynamic**: Jobs arriving dynamically.
 
 ## Websites
 
