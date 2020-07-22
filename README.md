@@ -7,6 +7,7 @@
 - [ ] Maschinenbelegungsplanung in der Variantenfertigung: Job-Shop-Scheduling mit Fälligkeitsterminen und Flow-Shop-Scheduling mit begrenzten Zwischenlägern by **Iria Lechleiter**
 - [ ] Computational Intelligence in Flow Shop and Job Shop Scheduling by **Uday K. Chakraborty**
 - [ ] Genetic and Hybrid Algorithm Approaches to Flow Shop Scheduling by **Jose Rodrigues**
+- [ ] Job Shop Scheduling with Consideration of Due Dates: Potentials of Local Search Based Solution Techniques by **Jens Kuhpfahl**
 
 ## Youtube
 
